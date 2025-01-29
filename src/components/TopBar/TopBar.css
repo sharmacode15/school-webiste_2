@@ -1,0 +1,24 @@
+.top-bar {
+    background: linear-gradient(135deg, #4A90E2, #FF6F61);
+    color: white;
+    padding: 0.8rem 1rem;
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .contact-info {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .contact-info i {
+    margin-right: 0.5rem;
+  }
+  
+  .tagline {
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-style: italic;
+  }
